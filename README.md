@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Simple Ruby on Rails to keep track of friends/contact
 
 Things you may want to cover:
 
